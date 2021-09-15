@@ -1,7 +1,7 @@
 var meuNome = "Adriano"
 var dataAtual = 09
 var dataEvento = 22
-var idadeParticipante = 15
+var idadeParticipante = 30
 var participantes = ["Vanessa", "Richard", "Joel", "Carol"]
 var permitirCadastro = true
 
